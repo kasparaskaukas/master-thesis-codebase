@@ -1,5 +1,5 @@
 # master-thesis-codebase
-Codebase for master thesis "EVALUATING MARINE VESSEL COLLISION RISKS USING TRAJECTORY PREDICTION REGIONS AND CLUSTERS"
+Codebase for master thesis "Evaluating Marine Vessel Collision Risks Using Trajectory Prediction Regions And Clusters"
 
 ### 1. `data_cleaning.ipynb`
 - Cleans the data files for each day.
